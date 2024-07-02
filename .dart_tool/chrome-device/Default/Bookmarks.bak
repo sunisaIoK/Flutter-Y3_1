@@ -1,0 +1,676 @@
+{
+   "checksum": "070c400c726c53d4b839f65d1e6f9f9f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13364410110407139",
+            "date_last_used": "0",
+            "guid": "f2cc28de-501f-416f-881f-1cac52db52a9",
+            "id": "68",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/agoda.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13364410110407077",
+            "date_last_used": "0",
+            "guid": "ab08d2bc-4247-4865-87ad-c76598610509",
+            "id": "67",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13364410110406920",
+            "date_last_used": "0",
+            "guid": "1ee52432-e310-48de-a0b9-9b41e3456540",
+            "id": "66",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/20q2/facebook.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13346564498363688",
+            "date_last_used": "0",
+            "guid": "2addc822-6e88-4d1d-860d-20265ed27092",
+            "id": "60",
+            "name": "การพัฒนาระบบระบบการวางแผนความต้องการการสั่งสินค้า.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://dspace.spu.ac.th/bitstream/123456789/5058/1/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2.pdf"
+         }, {
+            "date_added": "13346622408662215",
+            "date_last_used": "0",
+            "guid": "55d1b709-e994-4a58-b27f-ed4cdebe7b6e",
+            "id": "61",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to sign up for the ARKNIGHTS: ENDFIELD PC technical test - Dot Esports",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dotesports.com/general/news/how-to-sign-up-for-the-arknights-endfield-pc-technical-test"
+         }, {
+            "date_added": "13348863336401464",
+            "date_last_used": "0",
+            "guid": "07d7a92f-d203-4b80-8122-0b7408ba9fd9",
+            "id": "62",
+            "name": "Moon-Shadow Sword Emperor Chapter 64 page 6 - MangaNato.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://v18.mkklcdnv6tempv5.com/img/tab_38/04/25/00/qa993857/chapter_64/6-f.jpg"
+         }, {
+            "children": [ {
+               "date_added": "13308477135278732",
+               "date_last_used": "0",
+               "guid": "710b75c8-c2d8-4b83-ab27-b71913a6b43f",
+               "id": "70",
+               "name": "Acer",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.acer.com/"
+            } ],
+            "date_added": "13364410113853064",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "8519bafe-27b4-49e6-938b-b2cc785641fc",
+            "id": "69",
+            "name": "Acer",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13351245812926017",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13113279703889261",
+            "date_last_used": "0",
+            "guid": "e0283b7f-9640-4928-a1a9-25394bad5c9f",
+            "id": "17",
+            "name": "` - ค้นหาด้วย Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.co.th/search?q=%60&rlz=1C1CHWL_thTH687TH688&oq=%60&aqs=chrome..69i57.10327269j0j7&sourceid=chrome&ie=UTF-8"
+         }, {
+            "date_added": "13138601604275272",
+            "date_last_used": "0",
+            "guid": "c520244a-a848-41f1-81dc-4eb74ffdba06",
+            "id": "18",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/?ref=logo"
+         }, {
+            "date_added": "13140010975586726",
+            "date_last_used": "0",
+            "guid": "255e0f3f-e240-48c0-8113-8a1c0bbd3969",
+            "id": "19",
+            "name": "Ookami Shoujo to Kuro Ouji ยัยหมาป่ากับเจ้าชายเย็นชา ตอนที่ 02 ซับไทย | Ookami Shoujo to Kuro Ouji ยัยหมาป่ากับเจ้าชายเย็นชา ต",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://neko-miku.com/play/3472/ookami-shoujo-to-kuro-ouji-%E0%B8%A2%E0%B8%B1%E0%B8%A2%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-02%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.html"
+         }, {
+            "date_added": "13142172704890535",
+            "date_last_used": "0",
+            "guid": "a94fd46d-7fa7-4371-88cc-b4c5c0b2e9e4",
+            "id": "20",
+            "name": "Garena ไทยแลนด์ - Connecting world gamers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://support.garena.in.th/login_ui/"
+         }, {
+            "date_added": "13143560081948427",
+            "date_last_used": "0",
+            "guid": "98ef47b3-acd3-46e2-ba1f-8dcd50800e17",
+            "id": "21",
+            "name": "เข้าสู่ระบบ | SEGA ID หน้าการจัดการ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gw.sega.jp/gw/login/"
+         }, {
+            "date_added": "13144910542300085",
+            "date_last_used": "0",
+            "guid": "1b04d32b-734c-476b-8526-b46655d944a7",
+            "id": "22",
+            "name": "การบำรุงรักษา | \"ประหลาดดาราออนไลน์ 2\" เว็บไซต์ของผู้เล่น",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://pso2.jp/players/news/?id=11541"
+         }, {
+            "date_added": "13147091864289085",
+            "date_last_used": "0",
+            "guid": "41d72458-d7a4-4816-9335-2d2514fa8244",
+            "id": "23",
+            "name": "Anime-Sugoi | ดูการ์ตูน ดูAnime ดูการ์ตูนออนไลน์ อนิเมะพากย์ไทย อนิเมะซับไทย",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.anime-sugoi.com/index.html"
+         }, {
+            "date_added": "13150084777329564",
+            "date_last_used": "0",
+            "guid": "e078f39e-4f23-4951-9cb4-adea35532d34",
+            "id": "24",
+            "name": "astronomia แดนซ์ - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/results?search_query=astronomia+%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%8B%E0%B9%8C"
+         }, {
+            "date_added": "13151237929433761",
+            "date_last_used": "0",
+            "guid": "42dd26d7-4515-49e1-b1a3-ca206e3eb1aa",
+            "id": "25",
+            "name": "《CLOSERS》プレイヤーズサイト | HappyTuk",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cls.happytuk.co.jp/cls/index"
+         }, {
+            "date_added": "13151579674275547",
+            "date_last_used": "0",
+            "guid": "a5849372-a363-4303-b58d-a1e8dd3cfdd3",
+            "id": "26",
+            "name": "termgame.com - ศูนย์เติมเงินเกม Garena",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://termgame.com/"
+         }, {
+            "date_added": "13153147414868760",
+            "date_last_used": "0",
+            "guid": "d3b5b176-ac13-4af3-902c-b77b05690b9a",
+            "id": "27",
+            "name": "มังงะเรียงตามคนอ่านมากสุด หน้า 7 จาก 61 หน้า - อ่านการ์ตูน เว็บอ่านการ์ตูน อ่านการ์ตูนออนไลน์ ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.box-manga.com/page/7/?s=mostviews"
+         }, {
+            "date_added": "13167411301406022",
+            "date_last_used": "0",
+            "guid": "8e213f15-cd4f-4291-b95a-9119f6928677",
+            "id": "28",
+            "name": "[PSO2] Livestream&Photos",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/groups/pso2.livestream/"
+         }, {
+            "date_added": "13174833287084558",
+            "date_last_used": "0",
+            "guid": "f9ac6013-1f47-4155-92be-ecb285b1f789",
+            "id": "29",
+            "name": "HoN - 7th HoN iversary",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://events.garena.in.th/hon/7thHoNiversary/"
+         }, {
+            "date_added": "13178722301863814",
+            "date_last_used": "0",
+            "guid": "fa4fa94a-eb8f-453e-b5ca-7822c850305d",
+            "id": "30",
+            "name": "PSO2 Layering Wear List",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://picocloset.web.fc2.com/ladies.html"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "d6aad871-b63a-4168-903c-b57a1b62aa95",
+               "id": "32",
+               "name": "` - ค้นหาด้วย Google",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.google.co.th/search?q=%60&rlz=1C1CHWL_thTH687TH688&oq=%60&aqs=chrome..69i57.10327269j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "e5165690-26ed-42b4-9286-810a01b854d3",
+               "id": "33",
+               "name": "Facebook",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.facebook.com/?ref=logo"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "c22e50f4-8493-477d-b144-4e553270d8b7",
+               "id": "34",
+               "name": "Ookami Shoujo to Kuro Ouji ยัยหมาป่ากับเจ้าชายเย็นชา ตอนที่ 02 ซับไทย | Ookami Shoujo to Kuro Ouji ยัยหมาป่ากับเจ้าชายเย็นชา ต",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://neko-miku.com/play/3472/ookami-shoujo-to-kuro-ouji-%E0%B8%A2%E0%B8%B1%E0%B8%A2%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-02%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.html"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "b4946ba7-bfb9-4d41-86a0-faa4615468db",
+               "id": "35",
+               "name": "Garena ไทยแลนด์ - Connecting world gamers",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://support.garena.in.th/login_ui/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "c0c506a2-4eb0-47b4-a0d8-ed3ff9eb7e04",
+               "id": "36",
+               "name": "เข้าสู่ระบบ | SEGA ID หน้าการจัดการ",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://gw.sega.jp/gw/login/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "4f25af39-fc65-4f9b-9ff8-f9b2db6b453d",
+               "id": "37",
+               "name": "การบำรุงรักษา | \"ประหลาดดาราออนไลน์ 2\" เว็บไซต์ของผู้เล่น",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://pso2.jp/players/news/?id=11541"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "4a85d67f-1875-47e2-9615-8bf8bb688df6",
+               "id": "38",
+               "name": "Anime-Sugoi | ดูการ์ตูน ดูAnime ดูการ์ตูนออนไลน์ อนิเมะพากย์ไทย อนิเมะซับไทย",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.anime-sugoi.com/index.html"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "fe505ced-9b5c-4fa9-98a0-e0654bceca7f",
+               "id": "39",
+               "name": "astronomia แดนซ์ - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=astronomia+%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%8B%E0%B9%8C"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "16bfe7ed-4b4e-4d9f-b31e-1b4c6e98e0e0",
+               "id": "40",
+               "name": "《CLOSERS》プレイヤーズサイト | HappyTuk",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://cls.happytuk.co.jp/cls/index"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "6f90f056-0671-4874-a0ac-2d5c807c7d1f",
+               "id": "41",
+               "name": "termgame.com - ศูนย์เติมเงินเกม Garena",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://termgame.com/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "8f595230-ef3e-4bb8-9181-52913ae242ab",
+               "id": "42",
+               "name": "มังงะเรียงตามคนอ่านมากสุด หน้า 7 จาก 61 หน้า - อ่านการ์ตูน เว็บอ่านการ์ตูน อ่านการ์ตูนออนไลน์ ",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.box-manga.com/page/7/?s=mostviews"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "13b37965-8ccd-4fa5-88fa-8aebeff6fc78",
+               "id": "43",
+               "name": "[PSO2] Livestream&Photos",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.facebook.com/groups/pso2.livestream/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "4cafdf61-360a-4a2a-9266-93c266d1684f",
+               "id": "44",
+               "name": "HoN - 7th HoN iversary",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://events.garena.in.th/hon/7thHoNiversary/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "31516d1b-8ff5-4503-a1cd-a3658374cf25",
+               "id": "45",
+               "name": "PSO2 Layering Wear List",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://picocloset.web.fc2.com/ladies.html"
+            } ],
+            "date_added": "13325333365211274",
+            "date_last_used": "0",
+            "date_modified": "13325333365211274",
+            "guid": "80507675-4028-4cb6-9f42-4ed229469261",
+            "id": "31",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "b97609d2-2209-443b-bdca-5bac1f45d29d",
+               "id": "47",
+               "name": "cdn.fbsbx.com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://cdn.fbsbx.com/v/t59.2708-21/116888531_1134733356909845_5439380034057243139_n.docx/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%A5%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B5.docx?_nc_cat=102&_nc_sid=0cab14&_nc_ohc=YT1qyUSC2oYAX-NSMrM&_nc_ht=cdn.fbsbx.com&oh=343c00fd0f18c15e8664b5b5016ce68c&oe=5F2AAC03&dl=1"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "278e5eb9-8e84-4b46-9f29-46a4600af49a",
+               "id": "48",
+               "name": "ดูหนัง หนังใหม่ ดูหนังฟรี ดูหนังออนไลน์ HD อัพเดทตลอด - Nangonly.com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.nangonly.com/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "e720108c-fd4f-4afc-bc9d-e2d8672672f2",
+               "id": "49",
+               "name": "Insult Order ~cocky Cat Girls’ Pleasure Corruption Is On The Menu~ - Episode 1 Subbed | Hentaisea",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://hentaisea.com/episodes/insult-order-cocky-cat-girls-pleasure-corruption-is-on-the-menu-episode-1/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "70396822-c42f-4957-ba01-999e3b12e816",
+               "id": "50",
+               "name": "Uncensored 3D Hentai | Hentaisea",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://hentaisea.com/genre/3d-hentai/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "d8524373-1565-417b-93f1-c8ff1902d660",
+               "id": "51",
+               "name": "Mangakakalot - Read Manga Online",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://mangakakalot.com/"
+            } ],
+            "date_added": "13325333365212118",
+            "date_last_used": "0",
+            "date_modified": "13325333365212118",
+            "guid": "0038da4a-e6e9-4645-a17f-5a8408d9f4f0",
+            "id": "46",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13342621554919962",
+            "date_last_used": "0",
+            "guid": "c4184b7b-c97c-43ab-b9f2-07540929f59a",
+            "id": "52",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Taoist Master Hoguk Manga Online Free - Manganato",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chapmanganato.com/manga-qs993875"
+         }, {
+            "date_added": "13342621564838706",
+            "date_last_used": "0",
+            "guid": "e774fb1c-0466-4f45-aaf3-96bf178d0fd3",
+            "id": "53",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "What Do You Do When You Suddenly Become An Immortal? Chapter 74 - Manganelo",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chapmanganato.com/manga-oo991823/chapter-74"
+         }, {
+            "date_added": "13342621569372703",
+            "date_last_used": "0",
+            "guid": "d23048ee-949e-4c63-86c4-f6fdba1790be",
+            "id": "54",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "I'm Too Lazy To Be The Villain Chapter 1 - Manganelo",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chapmanganato.com/manga-nq990473/chapter-1"
+         }, {
+            "date_added": "13343862730018711",
+            "date_last_used": "0",
+            "guid": "c7b6a0eb-cb50-4bd8-a610-4400ae5d9b28",
+            "id": "55",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "เปรียบเทียบแผน Microsoft 365 | Microsoft 365",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.microsoft.com/th-th/microsoft-365/business/compare-all-microsoft-365-business-products-b?ef_id=_k_CjwKCAiA3aeqBhBzEiwAxFiOBv2n_YFsjGngLvI3EdAa8wGJ34Xuyr80XKp2r4pJjgCt7NhbjgLf0xoCmzYQAvD_BwE_k_&OCID=AIDcmmye4mze2w_SEM__k_CjwKCAiA3aeqBhBzEiwAxFiOBv2n_YFsjGngLvI3EdAa8wGJ34Xuyr80XKp2r4pJjgCt7NhbjgLf0xoCmzYQAvD_BwE_k_&gclid=CjwKCAiA3aeqBhBzEiwAxFiOBv2n_YFsjGngLvI3EdAa8wGJ34Xuyr80XKp2r4pJjgCt7NhbjgLf0xoCmzYQAvD_BwE"
+         }, {
+            "date_added": "13343908694323294",
+            "date_last_used": "0",
+            "guid": "4fc8b84a-b418-427a-ad61-428938ec6df6",
+            "id": "56",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Watch JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!? 2 Hentai Video in 1080p HD - hanime.tv",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://hanime.tv/videos/hentai/jk-ikinari-doukyo-micchaku-hatsu-ecchi-2"
+         }, {
+            "date_added": "13344959417225413",
+            "date_last_used": "0",
+            "guid": "f86a77ef-3c10-4b3b-80dd-77f86eed79c0",
+            "id": "57",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "e-Fulfillment (อี-ฟูลฟิลล์เม้นท์) หรือคลังสินค้าออนไลน์ คืออะไร ?",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.logisticafe.com/2018/07/what-is-e-fulfilment-logistics/"
+         }, {
+            "date_added": "13346418032275301",
+            "date_last_used": "0",
+            "guid": "71f2fae0-a30b-4e3a-b446-1eb1cb121c53",
+            "id": "58",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Read Seoul Station Necromancer Chapter 110 on Reaper Scans",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://reaper-scans.com/seoul-station-necromancer-chapter-110/"
+         }, {
+            "date_added": "13346564455150219",
+            "date_last_used": "0",
+            "guid": "7f28ad90-7814-4048-990b-eb5ff10a82b8",
+            "id": "59",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "การพัฒนาระบบระบบการวางแผนความต้องการการสั่งสินค้า.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://dspace.spu.ac.th/bitstream/123456789/5058/1/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2.pdf"
+         } ],
+         "date_added": "13351245812926019",
+         "date_last_used": "0",
+         "date_modified": "13346564455150219",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13240985613748370",
+            "date_last_used": "0",
+            "guid": "15e90a90-0fa2-46bd-8c2a-7ae9116778d3",
+            "id": "7",
+            "name": "cdn.fbsbx.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/116888531_1134733356909845_5439380034057243139_n.docx/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%A5%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B5.docx?_nc_cat=102&_nc_sid=0cab14&_nc_ohc=YT1qyUSC2oYAX-NSMrM&_nc_ht=cdn.fbsbx.com&oh=343c00fd0f18c15e8664b5b5016ce68c&oe=5F2AAC03&dl=1"
+         }, {
+            "date_added": "13046328990487431",
+            "date_last_used": "0",
+            "guid": "6682ca40-1c04-414b-afe5-11d566755a45",
+            "id": "8",
+            "name": "ดูหนัง หนังใหม่ ดูหนังฟรี ดูหนังออนไลน์ HD อัพเดทตลอด - Nangonly.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.nangonly.com/"
+         }, {
+            "date_added": "13225138605725687",
+            "date_last_used": "0",
+            "guid": "a4f32c4a-bd41-43fe-afda-087770c96de5",
+            "id": "9",
+            "name": "Insult Order ~cocky Cat Girls’ Pleasure Corruption Is On The Menu~ - Episode 1 Subbed | Hentaisea",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://hentaisea.com/episodes/insult-order-cocky-cat-girls-pleasure-corruption-is-on-the-menu-episode-1/"
+         }, {
+            "date_added": "13225138617753416",
+            "date_last_used": "0",
+            "guid": "830b69ba-74a7-48de-abf2-839f2d962118",
+            "id": "10",
+            "name": "Uncensored 3D Hentai | Hentaisea",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://hentaisea.com/genre/3d-hentai/"
+         }, {
+            "date_added": "13247721984235070",
+            "date_last_used": "0",
+            "guid": "f214a665-4157-4189-a665-245abef04c3c",
+            "id": "11",
+            "name": "Mangakakalot - Read Manga Online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mangakakalot.com/"
+         }, {
+            "date_added": "13329386119140220",
+            "date_last_used": "0",
+            "guid": "e0a8cfb5-9247-465d-abf4-ea1df4f696b9",
+            "id": "12",
+            "name": "Microsoft Edge Add-ons - volume control",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://microsoftedge.microsoft.com/addons/search/volume%20control?hl=en-US"
+         }, {
+            "date_added": "13329386211197927",
+            "date_last_used": "0",
+            "guid": "17681d3f-5207-4bfe-9d0a-385a1db6d507",
+            "id": "13",
+            "name": "Rain - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=7Fncun4ObQk"
+         }, {
+            "date_added": "13329436354238410",
+            "date_last_used": "0",
+            "guid": "44423965-85ef-4465-b290-2e67688a5ecc",
+            "id": "14",
+            "name": "AdBlock is now installed!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://getadblock.com/en/installed/?u=zvpfq03m62748288&lg=en-US&dc=false"
+         }, {
+            "date_added": "13329436376749348",
+            "date_last_used": "0",
+            "guid": "bea4eadc-8fc1-406b-af79-0b0c2cc8f04e",
+            "id": "15",
+            "name": "Microsoft Edge Add-ons",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=en-US"
+         }, {
+            "date_added": "13332726960658100",
+            "date_last_used": "0",
+            "guid": "500d34f0-eeac-4745-8325-f368ae91c2a3",
+            "id": "16",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         } ],
+         "date_added": "13351245812926023",
+         "date_last_used": "0",
+         "date_modified": "13332726960658100",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

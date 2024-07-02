@@ -1,0 +1,1 @@
+C:\\Users\\Mythic\\Desktop\\LAB_APP\\flutter_application_1\\.dart_tool\\flutter_build\\4e8db52b34eac4f615f73018f38c8a21\\app.dill: C:\\Users\\Mythic\\Desktop\\LAB_APP\\flutter_application_1\\lib\\labdartacsyn.dart
